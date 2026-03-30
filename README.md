@@ -22,7 +22,7 @@ This project is built using the following technologies:
 * **Framework: Next.js 16.1.6**
 * **Styling: Tailwind CSS 4 (via @tailwindcss/postcss)**
 * **Icons: Lucide React 0.577.0**
-* **Notifications: Sonner 2.0.7
+* **Notifications: Sonner 2.0.7**
 * **Animations: Tailwind Animate & Transitions**
 
 ---
